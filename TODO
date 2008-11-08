@@ -1,0 +1,9 @@
+Things remaining before I'd consider it "done":
+
+[ ] a way to allow rules to modify state
+[ ] a "how did I get here" option, for describing the steps used in the current solution
+[ ] more tests of both the DSL and the resolution system
+
+[X] custom predicates
+[X] numeric atoms
+[X] cuts
